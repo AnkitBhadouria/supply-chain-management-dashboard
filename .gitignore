@@ -1,0 +1,21 @@
+# Local build files
+work/
+
+# Generated inspection and preview files
+*.inspect.ndjson
+outputs/Supply_Chain_Management_Viva_Deck/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional raw data files if they contain private information
+*.csv
+*.xlsx
+*.xls
